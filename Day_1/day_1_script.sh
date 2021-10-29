@@ -1,3 +1,17 @@
+# Instruções
+
+# Esteja certo que você tenha todo o ambiente configurado para
+# rodar as ferramentas. A maioria das ferramentas são de uso
+# diário de um bioinformata o que não necessita de grande
+# experiência na instalação.
+# Muitos pacotes são instalados através de gerenciadores.
+# Por exemplo, você pode instalar o samtools em um 
+# ambiente linux usando o seguinte comando: sudo apt-get install samtools
+
+# Alguns outros pacotes podem ser instalados através de um ambiente conda (https://docs.conda.io/projects/conda/en/latest/user-guide/install/download.html)
+# Por exemplo, para instalar a ferramenta vt você pode usar o seguinte comando: conda install -c bioconda vt
+
+# Agora, para reproduzir os resultados basta seguir o passo a passo descrito a seguir.
 
 # Passo 1: Ao baixar os arquivos fornecidos a primeira coisa a ser feita é a:
 # 1) descompactação da sequência referência
